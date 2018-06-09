@@ -1,2 +1,2 @@
-# autoencoders
-a simple autoencoders implementation on MNIST dataset
+# autoencoder
+a simple autoencoder implementation on MNIST dataset
