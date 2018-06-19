@@ -1,2 +1,2 @@
-# autoencoder
-a simple autoencoder implementation on MNIST dataset
+# autoencoders
+Autoencoders implementation with convolutional layers in Tensorflow
